@@ -1,11 +1,11 @@
 {
     "students": [{
         "id": 1,
-        "first_name": "Wilona",
-        "last_name": "Peto",
-        "email": "wpeto0@ft.com",
+        "first_name": "Traci",
+        "last_name": "Crawford",
+        "email": "tcrawford@wsu.com",
         "class": "MATH1010",
-        "grade": "C"
+        "grade": "A+"
       }, {
         "id": 2,
         "first_name": "Ame",
